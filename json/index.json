@@ -1,0 +1,43 @@
+var data=[{
+	"id":"btn1",
+	"MovieName":"The Lego Movie",
+	"img":"./img./Lego.jpg",
+	"discription":"It's been five years since everything was awesome and the citizens are facing a huge new threat: Lego Duplo invaders from outer space, wrecking everything faster than they can rebuild.",
+	"stars":"Chris Pratt, Elizabeth Banks, Will Arnett",
+},
+{	
+	"id":"btn2",
+	"MovieName":"Glass",
+	"img":"./img./glass.jpg",
+	"discription":"Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
+	"stars":"James McAvoy, Bruce Willis, Samuel L. Jackson",
+},
+{
+	"id":"btn3",
+	"MovieName":"What Men Want",
+	"img":"./img./whatmenwant.jpg",
+	"discription":"A woman is boxed out by the male sports agents in her profession, but gains an unexpected edge over them when she develops the ability to hear men's thoughts.",
+	"stars":" Taraji P. Henson, Kristen Ledlow, Josh Brener ",
+},
+{
+	"id":"btn4",
+	"MovieName":"Fighting with my Family",
+	"img":"./img./fightingwith.jpg",
+	"discription":"A former wrestler and his family make a living performing at small venues around the country while his kids dream of joining World Wrestling Entertainment.",
+	"stars":"Dwayne Johnson, Lena Headey, Vince Vaughn",
+},
+{
+	"id":"btn5",
+	"MovieName":"Dragon",
+	"img":"./img./dragon.jpg",
+	"discription":"When Hiccup discovers Toothless isn't the only Night Fury, he must seek The Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+	"stars":"Jay Baruchel, America Ferrera, F. Murray Abraham",
+},
+{	
+	"id":"btn6",
+	"MovieName":"Captain Marvel",
+	"img":"./img./CaptainMarvel.jpg",
+	"discription":"Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+	"stars":"Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+}
+]

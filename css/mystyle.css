@@ -1,0 +1,127 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+/* header */
+header{
+	width: 100%;
+	background-color: #101010;
+	padding-top: 30px;
+	padding-bottom:30px;
+
+	
+}
+header>h1{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+
+}
+/* nav menue*/
+.navi{
+	align-content: center;
+	background-color: darkred;
+	margin-top: -20px;
+}
+li{
+	display: inline-block;
+	padding:8px;
+}
+li>a{
+text-decoration: none;
+	font-size: 30px;
+	color: white;
+}
+/* second heading movies */
+div{
+	padding: 10px;
+	height: 40px;
+	margin-top: -20px;
+	background-color: #171E25;
+
+}
+#movies{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+}
+/* main div */
+#main{
+		margin-top: -20px;
+		height: 100%;
+		display: flex;
+		background-color: ;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+/* div style for my jason staffs */		
+#div2 {
+	margin: 10px;
+	width: 600px;
+	height: 320px;
+	background-color: #101010;
+	box-shadow: 3px 4px 4px 2px #8B0000;
+}
+#heading{
+	color:#8B0000;
+	text-align: center;
+
+}
+#img{
+	float: left;
+	width:250px;
+	height:300px;
+	margin-top:10px;
+	margin-bottom:0px;
+	object-fit:cover;
+}
+#txt{
+
+	margin-top: -20px;
+	text-align:center;
+	font-size:17px;
+	color:white;
+}
+#st{
+	text-align: center;
+	font-size:20px;
+	font-weight: 700;
+	color:white;
+
+}
+/* button with like counter */
+ .btn{
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-bottom: -20px;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	border: 2px solid darkred;
+	box-shadow: 2px 3px 3px 1px #8B0000;
+	width: 200px;
+	height: 40px;
+} 
+#count{
+	background-color: darkgray;
+	width: 20px;
+	height: 20px;
+	border-radius: 20%;
+	margin-left: 300px;
+}
+
+footer{
+	width: 100%;
+	background-color: #101010;
+	padding-top: 30px;
+	padding-bottom: 30px;	
+}
+
+footer>h1{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+
+}
